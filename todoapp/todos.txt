@@ -1,12 +1,11 @@
 add a new player
 add a new member
 fix
-buy plantsplay game
+the bugbuy plantsplay game
 chess
 nothing
 clean the bagfix the shower
 clean the bag
-fix the drawer
 fix the drawer
 clean the bag
 make pizza
@@ -16,3 +15,5 @@ new todo meo meo
 master python
 check the todo list
 and add last
+chess
+fix the bug
